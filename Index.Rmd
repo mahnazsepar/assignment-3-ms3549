@@ -1,0 +1,19 @@
+---
+title: "This is a test for assignment 3"
+author: "Mahnaz"
+date: "2/26/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Hi
+
+My name is Mahnaz and I work for this project with Jaime
+Here are the link to our github repo:
+https://github.com/mahnazsepar/assignment-3-ms3549
+https://github.com/jaimeortiz-david
+![It's gonna be Spring soon, Let's celebrate it](C:/Users/Andover/Downloads/10756422096_IMG_5068.JPG)
+
