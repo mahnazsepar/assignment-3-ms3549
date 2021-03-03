@@ -8,3 +8,4 @@ output: html_document
 * My Name is Mahnaz
 * I live in Ithaca, NY
 * I'm a mom 
+* I love gardening, cooking, baking, and going to thw farm around for U-pick
