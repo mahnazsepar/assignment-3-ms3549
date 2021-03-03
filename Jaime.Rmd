@@ -1,0 +1,14 @@
+---
+title: "Jaime"
+output: html_document
+---
+<br>
+
+I am from the Galapagos Islands in Ecuador
+
+#### Things that I like
+
+* Swimming
+* Snorkeling
+* Fishing
+* Dancing
