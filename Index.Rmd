@@ -10,11 +10,15 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 ## Hi
-
+<br>
 My name is Mahnaz and I work for this project with Jaime
+<<<<<<< HEAD
 <br>
 You can find some information about us in our tabs
 <br>
 
+=======
+If you click the tab with our name you can find some information about each of us
+>>>>>>> 67f2bc6488ce7e9bbca318a4ef084fdd3d3917ec
 ![It's gonna be Spring soon, Let's celebrate it](C:/Users/Andover/Downloads/10756422096_IMG_5101.JPG)
 
