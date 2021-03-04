@@ -10,12 +10,10 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 ## Hi
-
-My name is Mahnaz and I work for this project with Jaime
-Here are the link to our github repo:
 <br>
-https://github.com/mahnazsepar/assignment-3-ms3549
-https://github.com/jaimeortiz-david
-
-![It's gonna be Spring soon, Let's celebrate it](C:/Users/Andover/Downloads/10756422096_IMG_5068.JPG)
+My name is Mahnaz and I work for this project with Jaime
+If you click the tab with our name you can find some information about each of us
+<br>
+<br>
+![It's gonna be Spring soon, Let's celebrate it](C:/Users/Andover/Downloads/10756422096_IMG_5101.JPG)
 
