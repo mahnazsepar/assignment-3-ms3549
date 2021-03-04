@@ -13,7 +13,9 @@ knitr::opts_chunk$set(echo = TRUE)
 
 My name is Mahnaz and I work for this project with Jaime
 Here are the link to our github repo:
+<br>
 https://github.com/mahnazsepar/assignment-3-ms3549
 https://github.com/jaimeortiz-david
+
 ![It's gonna be Spring soon, Let's celebrate it](C:/Users/Andover/Downloads/10756422096_IMG_5068.JPG)
 
