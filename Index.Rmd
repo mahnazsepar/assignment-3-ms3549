@@ -1,7 +1,5 @@
 ---
 title: "This is a test for assignment 3"
-author: "Mahnaz"
-date: "2/26/2021"
 output: html_document
 ---
 
@@ -15,5 +13,5 @@ My name is Mahnaz and I work for this project with Jaime
 <br>
 You can find some information about us in our tabs
 <br>
-![It's gonna be Spring soon, Let's celebrate it](C:/Users/Andover/Downloads/10756422096_IMG_5101)
+![It's gonna be Spring soon, Let's celebrate it](/C:/Users/Andover/Desktop/Courses/R/ntres-6100-mahnazsepar/problem_sets/assignment-3-ms3549/Terme.JPG)
 
