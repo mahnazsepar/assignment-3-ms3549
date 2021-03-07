@@ -1,1 +1,1 @@
-https://github.com/mahnazsepar/assignment-3-ms3549.git
+https://mahnazsepar.github.io/assignment-3-ms3549/
